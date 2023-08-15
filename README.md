@@ -22,6 +22,25 @@ The data for this project was collected using Python and web scraping techniques
 
 ![image](https://github.com/ymulakala27/Cryptocurrency-Data-Analysis/assets/128730384/97fff5de-34ee-484f-a0d0-c19324ae1184)
 
+![image](https://github.com/ymulakala27/Cryptocurrency-Data-Analysis/assets/128730384/0f5f65a6-8d2d-4117-8e67-9376b38de2ab)
+
+![image](https://github.com/ymulakala27/Cryptocurrency-Data-Analysis/assets/128730384/08f9a6e7-50c7-456f-a081-8d41fe547713)
+
+![image](https://github.com/ymulakala27/Cryptocurrency-Data-Analysis/assets/128730384/4e2f5e18-f6b0-4a14-8f70-c516efccc3a2)
+
+![image](https://github.com/ymulakala27/Cryptocurrency-Data-Analysis/assets/128730384/5f2c1c21-e9db-4ed5-b5cb-8de550b536a3)
+
+![image](https://github.com/ymulakala27/Cryptocurrency-Data-Analysis/assets/128730384/88534840-9126-46ac-b160-949e1e4dc1d3)
+
+![image](https://github.com/ymulakala27/Cryptocurrency-Data-Analysis/assets/128730384/250c1e57-dd68-4da6-9c40-84edcc239106)
+
+![image](https://github.com/ymulakala27/Cryptocurrency-Data-Analysis/assets/128730384/4c2e87e2-0f1d-4211-9111-305727fed4fd)
+
+![image](https://github.com/ymulakala27/Cryptocurrency-Data-Analysis/assets/128730384/50c311f0-35b5-4e0c-a180-a83d14dd7caf)
+
+![image](https://github.com/ymulakala27/Cryptocurrency-Data-Analysis/assets/128730384/be1e4386-1bba-4a1f-83bd-525e556df5f5)
+
+![image](https://github.com/ymulakala27/Cryptocurrency-Data-Analysis/assets/128730384/cc0e3239-71ea-4f68-8353-5bd61b08e29c)
 
 ## Dashboard Elements
 
